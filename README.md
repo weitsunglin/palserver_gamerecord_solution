@@ -1,1 +1,1 @@
-# palserver-GUI-0.0.9-BETA-
+# palserver-GUI-0.0.9-BETA
