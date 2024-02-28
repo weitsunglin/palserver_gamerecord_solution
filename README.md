@@ -1,10 +1,13 @@
 # palserver-GUI-0.0.9-BETA 解決方案
 
-遇到遊戲版本不兼容錯誤時，請按照以下步驟操作以解決：
+遇到小海豹伺服器故障時，請按照以下步驟操作以解決：
 
 ## 遊戲記錄路徑
 
 - **路徑**：`0.0.9-palserver-GUI-win32-x64\resources\app\engine\steamapps\common\PalServer\Pal\Saved`
+- 
+
+遇到遊戲版本不兼容錯誤時，請按照以下步驟操作以解決：
 
 ## 錯誤信息
 
