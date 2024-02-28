@@ -1,10 +1,10 @@
 # palserver-GUI-0.0.9-BETA
 
-game recodr path: 
+# # game recodr path: 
 0.0.9-palserver-GUI-win32-x64\resources\app\engine\steamapps\common\PalServer\Pal\Saved
 
 
-error message:The match you are trying to join is running an incompatible version of the game. Please try upgrading your game version.
+# # error message:The match you are trying to join is running an incompatible version of the game. Please try upgrading your game version.
 solution: 
 1. steamcmd download
 2. terminal cd into steamcmd path
