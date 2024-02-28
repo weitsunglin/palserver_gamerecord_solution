@@ -32,7 +32,7 @@
      ```
 
 4. **替換遊戲文件**
-   - 導航至 `steamapps` 目錄，刪除舊的 `2394010` 文件夾。
+   - 導航至 `SteamCMD 底下 steamapps` 目錄，刪除 `2394010` 文件夾。
    - 將更新後的遊戲文件複製到 `0.0.9-palserver-GUI-win32-x64\resources\app\engine\steamapps` 目錄下。
 
 簡單來說，就是要將官方更新的server應用 整到 自己的應用裡面，才對得起來。
