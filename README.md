@@ -8,7 +8,6 @@
 - 將記錄移到：0.0.9-palserver-GUI-win32-x64\resources\app\engine\steamapps\common\PalServer\Pal\Saved
 
 
-遇到遊戲版本不兼容錯誤時，請按照以下步驟操作以解決：
 
 ## 錯誤信息
 
@@ -36,4 +35,4 @@
    - 導航至 `steamapps` 目錄，刪除舊的 `2394010` 文件夾。
    - 將更新後的遊戲文件複製到 `0.0.9-palserver-GUI-win32-x64\resources\app\engine\steamapps` 目錄下。
 
-遵循上述步驟後，應能成功解決版本不兼容的問題，允許加入遊戲。
+簡單來說，就是要將官方更新的server應用 整到 自己的應用裡面，才對得起來。
