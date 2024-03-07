@@ -36,3 +36,5 @@
    - 將更新後的遊戲文件複製到 `0.0.9-palserver-GUI-win32-x64\resources\app\engine\steamapps` 目錄下。
 
 簡單來說，就是要將官方更新的server應用 整到 自己的應用裡面，才對得起來。
+
+© 2024 weitusnglin. All rights reserved.
